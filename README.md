@@ -17,7 +17,6 @@ Evaluate app across the following categories using the App Evaluation Protocol.
 ---
 
 ### User Stories
-// TODO: Enumerate User Stories
 ## 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
